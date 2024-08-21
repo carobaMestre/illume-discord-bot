@@ -1,1 +1,1 @@
-token='SeuToken'
+token='SEU-TOKEN'
