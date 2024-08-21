@@ -1,10 +1,10 @@
-# Discord Trivia Bot
+# Discord Quiz Bot Gamer
 
-Este projeto é um bot de trivia para Discord, desenvolvido em Python usando a biblioteca `discord.py`. O bot permite que dois jogadores participem de um jogo de perguntas e respostas com um limite de tempo para cada pergunta.
+Este projeto é um bot de jogo de perguntas e respostas para Discord, desenvolvido em Python usando a biblioteca `discord.py`. O bot permite que dois jogadores participem de um jogo de perguntas e respostas com um limite de tempo para cada pergunta.
 
 ## Funcionalidades
 
-- Iniciar um jogo de trivia com o comando `!illumi start`.
+- Iniciar um jogo de perguntas e respostas com o comando `!illumi start`.
 - Jogar com até 2 jogadores simultaneamente.
 - Adicionar jogadores ao jogo com o comando `!join`.
 - Enviar perguntas e opções para os jogadores via mensagem direta.
@@ -46,7 +46,7 @@ Este projeto é um bot de trivia para Discord, desenvolvido em Python usando a b
 
 2. Use os seguintes comandos no Discord:
 
-    - `!illumi start` - Inicia um novo jogo de trivia.
+    - `!illumi start` - Inicia um novo jogo de jogo de perguntas e respostas.
     - `!illumi score` - Mostra a pontuação atual do jogo.
     - `!join` - Adiciona o jogador atual ao jogo.
 
